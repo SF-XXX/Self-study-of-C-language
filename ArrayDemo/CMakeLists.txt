@@ -3,4 +3,4 @@ project(ArrayDemo)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(ArrayDemo Array_Demo.c)
+add_executable(ArrayDemo Array_Demo.c Array_Demo_01.c)
